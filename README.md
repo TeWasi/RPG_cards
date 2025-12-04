@@ -1,11 +1,7 @@
 # RPG_cards
 # 🔱 ARQUIVOS DE DADOS: RPG CARDS DA ORDEM
 
-**STATUS:** PROJETO FINALIZADO E ONLINE
-**LINK PÚBLICO (BASE):** `https://tewasi.github.io/RPG_cards/`
-
-Este é o diretório mestre contendo os links diretos para cada um dos 5 Símbolos Elementais. Use a coluna "LINK PARA QR CODE" para gerar os códigos a serem colados no verso de cada card.
-
+Este é o diretório mestre contendo os links diretos para cada um dos 5 Símbolos Elementais. 
 | ELEMENTO | TEMA (Cor de Destaque) | LINK PARA QR CODE |
 | :--- | :--- | :--- |
 | **ENERGIA** | **Roxo** (Ação e Caos) | `https://tewasi.github.io/RPG_cards/Simbolo Energia.html` |
