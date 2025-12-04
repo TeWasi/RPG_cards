@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>ARQUIVO: SANGUE</title>
+    <style>
+        body {
+            background-color: #000;
+            color: rgba(255, 255, 255, 1);
+            font-family: 'Courier New', Courier, monospace;
+            padding: 20px;
+            text-align: center;
+        }
+        .glitch {
+            font-size: 2em;
+            font-weight: bold;
+            color: #FF0000; /* Vermelho Vivo */
+            text-shadow: 2px 2px #8B0000; /* Sombra Vermelho Escuro */
+        }
+        .container {
+            border: 1px solid #333;
+            padding: 20px;
+            margin-top: 50px;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <div class="glitch">/// RITUAL DE SANGUE</div>
+        <br>
+        <p>Acesso Concedido. Arquivo de Sacrifícios e Paixões.</p>
+        <hr>
+        <p><strong>PERGUNTA 1:</strong></p>
+        <p>"Se pudesse sacrificar um de seus hobbies favoritos por um ano, para ganhar uma habilidade vital para a sua vida, qual sacrifício faria?"</p>
+        <br>
+        <p><strong>PERGUNTA 2:</strong></p>
+        <p>"Qual é o seu maior impulso, sua reação mais intensa e irracional quando alguém te contraria ou mexe com algo que você ama?"</p>
+    </div>
+</body>
+</html>
